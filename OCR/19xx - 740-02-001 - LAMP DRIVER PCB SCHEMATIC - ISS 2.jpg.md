@@ -1,5 +1,5 @@
 # 19xx - 740-02-001 - LAMP DRIVER PCB SCHEMATIC - ISS 2.jpg
-Wiki page: [M740](../../../../PAGES/M740.md)
+Wiki page: [M740](../)
 
 
 - **Year:** unknown (title block (read by eye))

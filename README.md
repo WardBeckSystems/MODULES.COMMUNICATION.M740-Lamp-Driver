@@ -1,6 +1,6 @@
 # M740 Lamp Driver · Communication
 
-Ward-Beck Systems M740. Wiki page: [M740 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M740.html)
+Ward-Beck Systems M740. Wiki page: [M740 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M740-Lamp-Driver/)
 
 | Folder | What is in it | Files |
 |---|---|---|
